@@ -3,6 +3,7 @@
 *.dll
 *.so
 *.dylib
+log-my-remote-addr
 
 # Test binary, build with `go test -c`
 *.test
